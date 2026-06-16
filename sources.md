@@ -1,6 +1,6 @@
 # 📚 AI-Powered SEO Content Production Research
 
-> a curated collection of seo experts, practitioners, and educators discussing ai-powered content production, ai search, automation, and modern seo workflows.
+> A curated collection of SEO experts, practitioners, and educators discussing AI-powered content production, AI search, automation, and modern SEO workflows.
 
 ---
 
