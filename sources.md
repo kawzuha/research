@@ -4,7 +4,7 @@ Aleyda Solís
 Links
 * LinkedIn: https://www.linkedin.com/in/aleyda/
 * YouTube: https://www.youtube.com/@CrawlingMondaysbyAleyda
-Date Collected
+* Date Collected
 * 2026-06-16
 Annotation International SEO consultant and founder of Orainti. Creator of Crawling Mondays, SEOFOMO, and LearningSEO.io. Publishes educational content about AI search, technical SEO, content optimization, and international SEO.
 Why Selected
