@@ -33,23 +33,24 @@
 - Blog post
 - Youtube video
 
-Kevin Indig
-Links
-* LinkedIn: https://www.linkedin.com/in/kevinindig/
-Date Collected
-* 2026-06-16
-Annotation Growth advisor and SEO strategist specializing in organic growth, AI search, content strategy, and search behavior analysis. Produces research-driven content on the future of search.
-Why Selected
-* Frequently publishes data-backed SEO research.
-* Covers AI search and content production trends.
-* Influential voice in modern SEO strategy.
-Content Sources
-* Blog posts
+## Kevin Indig
+### Links
+- LinkedIn: https://www.linkedin.com/in/kevinindig/
+### Date Collected
+- 2026-06-16
+### Annotation
+- Growth advisor and SEO strategist specializing in organic growth, AI search, content strategy, and search behavior analysis. Produces research-driven content on the future of search.
+### Why Selected
+- Frequently publishes data-backed SEO research.
+- Covers AI search and content production trends.
+- Influential voice in modern SEO strategy.
+### Content Sources
+- Blog posts
 
-Jonathan Boshoff
-Links
-* LinkedIn: https://www.linkedin.com/in/jontyboshoff/
-* YouTube: https://www.youtube.com/boshify
+## Jonathan Boshoff
+### Links
+- LinkedIn: https://www.linkedin.com/in/jontyboshoff/
+- YouTube: https://www.youtube.com/boshify
 Date Collected
 * 2026-06-16
 Annotation AI SEO practitioner focused on AI-assisted content creation, SEO automation, programmatic SEO, and agent-based workflows. Shares practical implementation examples and experiments.
